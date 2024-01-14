@@ -485,8 +485,6 @@
 .hs-boot
 .hsc
 .hta
-.htm
-.html
 .html.heex
 .html.hl
 .html.leex
